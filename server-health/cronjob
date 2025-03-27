@@ -1,4 +1,4 @@
-open
+Run:
 
 crontab -e
 
