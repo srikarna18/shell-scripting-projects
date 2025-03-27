@@ -1,1 +1,11 @@
+open
 
+crontab -e
+
+And add:
+
+0 17 * * * /path/to/your_script.sh #everyday at 5pm
+
+*/5 * * * * /path/to/script.sh #every 5 min
+
+0 10 * * * /path/to/your_script.sh #everyday at 10am
