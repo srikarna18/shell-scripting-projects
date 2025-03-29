@@ -1,4 +1,7 @@
 
+This project was generated using AI-powered scripting with GitHub Copilot.
+
+
 proof-of-concept:
 
 
