@@ -1,7 +1,6 @@
 prerequisites:
 
-Aws cli install
-Aws cli configure
+Aws cli install and configure
 
 
 proof-of-concept:
