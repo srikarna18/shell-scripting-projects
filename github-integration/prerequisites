@@ -1,0 +1,9 @@
+Two prerequisite steps
+
+#export the username 
+ex: export username="   "
+    export token="    "
+
+    
+#generate PAT Personal Access Token with required permissions
+profile --> settings --> developer settings --> personal access token --> classic
