@@ -3,7 +3,8 @@ prerequisites:
 Aws cli install
 Aws cli configure
 
-proof-of-concept
+
+proof-of-concept:
 
 <img width="1389" alt="Screenshot 2025-03-29 at 6 06 53 PM" src="https://github.com/user-attachments/assets/27016d59-3f56-4e09-a11b-ee098901bcf7" />
 
