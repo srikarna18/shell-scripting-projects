@@ -1,0 +1,4 @@
+Run: 
+    crontab -e
+Add:
+    0 6,18 * * * ~/basic_aws_resource_tracker.sh
