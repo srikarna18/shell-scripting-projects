@@ -20,4 +20,4 @@ down:
 $(DOCKER_COMPOSE) down 
 
 clean: 
-docker system prune -y
+docker system prune
