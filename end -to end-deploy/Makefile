@@ -1,5 +1,5 @@
 
-`DOCKER_COMPOSE:= docker-compose 
+DOCKER_COMPOSE:= docker-compose 
 
 OS := $(shell name) 
 
@@ -13,4 +13,4 @@ down:
 $(DOCKER_COMPOSE) down 
 
 clean: 
-docker system prune -y` 
+docker system prune -y
