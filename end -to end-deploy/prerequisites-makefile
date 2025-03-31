@@ -1,0 +1,12 @@
+
+Install Docker & Docker compose
+
+A Makefile defines a set of tasks and dependencies for building software, automating tasks like compilation and linking, and is executed by the make command.
+
+Run:
+make
+make build
+make up
+make down
+make clean
+        
