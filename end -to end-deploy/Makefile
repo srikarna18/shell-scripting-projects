@@ -1,7 +1,7 @@
 
 DOCKER_COMPOSE:= docker-compose 
 
-OS := $(shell name) 
+OS := $(shell uname) 
 
 build: 
 $(DOCKER_COMPOSE) build 
